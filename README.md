@@ -1,4 +1,4 @@
-###   Hi, I'm Mina Sharifi
+###   Hey, I'm Mina Sharifi
 
 👩🏻‍💻 Final-Year Computer Science Student at the university of Turin.
 
