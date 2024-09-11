@@ -1,10 +1,15 @@
-###   Hey, I'm Mina Sharifi
+<img align ="left" src="https://visitor-badge.laobi.icu/badge?page_id=minash22.minash22" />
 
-👩🏻‍💻 Final-Year Computer Science Student at the university of Turin<br/>
-🧩 Working on small projects<br/>
-💭 Corrently learnign Web Design<br/>
-📎 [Linkedin](www.linkedin.com/in/mina-sharifi19) [email](mn.sharifi19@gmail.com) <br/>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Mina+Sharifi!" />
+</h2>
 
-#Languages, FrameWorks & Tools:
+<h3 align="center"> 👩🏻‍💻 A final-Year Computer Science Student at the university of Turin</h3>
 
+  <br/>
 
+  <div align="center">
+  🧩 Working on small projects<br/>
+  💭 Corrently learnign Web Design<br/>
+  </div>
+  
