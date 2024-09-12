@@ -11,5 +11,40 @@
   <div align="center">
   🧩 Working on small projects<br/>
   💭 Corrently learnign Web Design<br/>
+      
   </div>
   
+   <div align="center">
+       
+   <a href="mailto: mn.sharifi19@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  />
+   </a>
+
+   <a href="https://www.linkedin.com/in/mina-sharifi19">
+   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+   </a>
+</div>
+
+<h3 align="center"> ⚒️ Languages, FrameWorks & Tools ⚒️ : </h3>
+<br/>
+
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i= asm,c,java, sql,  html,css, r" />
+</br> 
+<img src="https://skillicons.dev/icons?i= r,vscode,git, idea,postgres,github,gitlab,linux" />
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
