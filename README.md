@@ -10,7 +10,7 @@
 
   <div align="center">
   🧩 Working on small projects<br/>
-  💭 Corrently learnign Web Design<br/>
+  💭 Corrently learnign Web development <br/>
       
   </div>
   
