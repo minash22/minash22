@@ -25,7 +25,7 @@
    </a>
 </div>
 
-<h3 align="center"> ⚒️ Languages, FrameWorks & Tools ⚒️  </h3>
+<h3 align="center"> ⚒️ Languages, FrameWorks & Tools   </h3>
 <br/>
 
 <div align="center">
