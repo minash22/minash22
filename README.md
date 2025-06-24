@@ -9,8 +9,8 @@
   <br/>
 
   <div align="center">
-  🧩 Working on small projects<br/>
-  💭 Corrently learnign Web development <br/>
+   Computer Science Graduate|Data-Driven Systems<br/>
+   Software Design & Continuous Learning <br/>
       
   </div>
   
